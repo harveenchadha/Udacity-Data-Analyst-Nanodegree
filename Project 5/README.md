@@ -1,0 +1,7 @@
+# Udacity-Ford-Go-Bike
+
+Generally around 90% of the bike rides take place on weekdays with Tuesday and Wednesday being the most busiest days. Also, people in the age group 21-40 generally use the bikes. The peak Bike ride time is around 7AM - 9AM in the morning and 5PM -6PM in the evening which matches the commute time for people working in 9-5 job. So considering all this, the target audience for Ford Go Bike is a regular 9-5 job person aged between 20-40 who is working in some sort of startup or tech company. 
+
+Coming back to Bike Rides 85% of the Bike Rides are from subscribers and rest 15% from Customers. Average Bike Ride for a Subscriber is of 11 minutes and for a customer is around 28 minutes. The customer base is one-seventh as compared to the subscribers as of June 2019. Subscribers mostly ride on weekdays and this supports our assumption of a person aged between 20-40 going in to work for some tech company. While on the weekends, the rides by Customers are more as compared to Subscribers which means that the people are either trying out the service provided or it is just for hobby purpose.
+
+As of June 2018, the average number of Bike rides per bike increased close to twice as compared to on New Year's day. Also the number of bikes grow 6 times since the company launched its service in June 2017. Also, if you are in San Francisco Caltrain (Townsend St at 4th St) you are in one of the busiest stations.
